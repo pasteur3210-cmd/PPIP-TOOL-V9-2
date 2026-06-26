@@ -1,0 +1,7 @@
+model: [Model]
+order_qty: ["Q'ty of order", "Qty of order"]
+shipment_qty: ["Q'ty of shipment", "Qty of shipment"]
+sor_request_fcd: ["SOR request FCD"]
+current_fcd: ["Current FCD"]
+actual_date: ["Actual date"]
+remark: ["remark", "Remark ", "Abnormal Record"]

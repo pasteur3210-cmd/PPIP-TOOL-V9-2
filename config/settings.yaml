@@ -1,0 +1,4 @@
+as_of_date: 2026-06-18
+include_tbd_in_risk: true
+matrix_quantity_source: shipment_qty
+schedule_date_source: current_fcd

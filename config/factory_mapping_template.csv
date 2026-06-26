@@ -1,0 +1,10 @@
+region,model_keyword,Factory,note
+EU-Czech,GRG-4284t-TSL-P1,,請填入此型號對應工廠名稱
+EU-Czech,GRG-4362-CTN-P1,,請填入此型號對應工廠名稱
+EU-Czech,PM-1540-CEU-P1,,請填入此型號對應工廠名稱
+EU-Spain,GRG-4284t-DIG,,請填入此型號對應工廠名稱
+EU-Spain,GRG-4355u-DIG,,請填入此型號對應工廠名稱
+EU-Spain,STB-7078-DIG,,請填入此型號對應工廠名稱
+NA,VG-8027u-KRL-P1,,請填入此型號對應工廠名稱
+ROW,GCA-6010-TSLHN-P1,,請填入此型號對應工廠名稱
+ALL,model keyword sample,,ALL代表不限region，model_keyword支援部分關鍵字
